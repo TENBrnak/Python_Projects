@@ -1,3 +1,4 @@
+#A try at the simple fizzbuzz question.
 def Fizzbuzz():
     for i in range(1, 101):
         if i % 3 == 0 and i % 5 == 0:
@@ -8,5 +9,4 @@ def Fizzbuzz():
             print("Buzz")
         else:
             print(i)
-Fizzbuzz()
 Fizzbuzz()
