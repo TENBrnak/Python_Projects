@@ -1,3 +1,4 @@
+#Basic version of a program that can find prime numbers in a certain range
 def isprime(number, primes):
     flag = True
     for i in range(len(primes)):
