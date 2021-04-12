@@ -1,3 +1,4 @@
+#A very simple program that prints out the initals of a name input
 name = input("Input your full name. ")
 split_name = name.split()
 output_initials = ""
